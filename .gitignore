@@ -1,0 +1,26 @@
+**.class
+
+# Package Files #
+**.jar
+**.war
+**.ear
+
+# Eclipse specific
+
+**bin/
+**.project
+**.metadata
+**bin/**
+**tmp/**
+**tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.classpath
+*.settings/
+*.loadpath
+
+#maven specific
+
+**/target/*
