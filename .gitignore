@@ -24,3 +24,7 @@
 #maven specific
 
 **/target/*
+
+#Gradle specific
+
+**/.gradle/*
